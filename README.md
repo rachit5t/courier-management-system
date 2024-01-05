@@ -1,4 +1,4 @@
-# courier-management-system
+# Courier Management System
 It is a desktop application developed using java swing. It is a curior management system.
 
 ## System Screenshots
